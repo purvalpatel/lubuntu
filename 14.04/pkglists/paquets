@@ -1,4 +1,7 @@
 # Paquets supplémentaires à installer
+libreoffice
+libreoffice-l10n-de
+libreoffice-l10n-fr
 thunderbird
 thunderbird-locale-de
 thunderbird-locale-fr
@@ -23,9 +26,6 @@ thunderbird-locale-fr
 #inkscape
 #inkscape-contracts
 #irssi
-#libreoffice
-#libreoffice-l10n-de
-#libreoffice-l10n-fr
 #mplayer
 #nautilus
 #openshot
